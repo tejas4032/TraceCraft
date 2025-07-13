@@ -1,0 +1,70 @@
+/* General Styles */
+body {
+    font-family: 'Rubik', sans-serif;
+    background-color: #d6ebff !important; 
+  }
+  
+  .container {
+    margin-top: 2rem;
+    padding-top: 80px;
+  }
+  
+  .card {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    width: 100%;
+    padding-top: 30px;
+    padding: 2rem;
+    gap: 1.5rem;
+    box-shadow: hsla(225, 34.10%, 35.70%, 0.23) 0px 5px 15px 0px, hsla(222, 70.00%, 44.50%, 0.16) 0px 15px 35px -5px;
+    border-radius: 30px;
+    max-width: 450px;
+    background-color: #fff;
+  }
+  
+  .card-header {
+    text-align: center;
+  }
+  
+  .card-header .title {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .card-header .subtitle {
+    font-size: 1rem;
+    color: #757575;
+    margin-bottom: 1rem;
+  }
+  
+  .form-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    width: 100%;
+  }
+  
+  .error-alert {
+    margin-top: 1rem;
+  }
+  
+  .login-link {
+    margin-top: 1rem;
+    text-align: center;
+  }
+  
+  .login-link .login-text {
+    font-size: 0.9rem;
+  }
+  
+  .login-link .login-button {
+    color: #000000 !important;
+    border-radius: 40px !important;
+  }
+
+  .title {
+    font-weight: 700;
+    color: #1976d2;
+  }
+  
