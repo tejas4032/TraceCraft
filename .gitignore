@@ -1,4 +1,2 @@
 /node_modules
 /supply-chain/node_modules
-/supply-chain/src/firebase.js
-/supply-chain/.env
