@@ -99,7 +99,7 @@ Our solution advances *SDG 17: Partnerships for the Goals* by:
 
 1. *Clone the repo*
    bash
-   git clone https://github.com/your-org/supply-chain-transparency.git
+   git clone https://github.com/tejas4032/TraceCraft.git
    cd supply-chain-transparency
    
 2. *Install dependencies*
