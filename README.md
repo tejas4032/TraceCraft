@@ -19,6 +19,8 @@
 
 ## About the Project
 
+[🎥 Watch the Demo on YouTube](https://www.youtube.com/watch?v=bHE3K-4kkTg&feature=youtu.be)
+
 Global supply chains today suffer from opacity, inefficiencies, and a lack of verifiable provenance. Our *Supply Chain Transparency Network* harnesses the power of blockchain to ensure every step—from raw material sourcing to final delivery—is recorded immutably. Through real-time updates, QR-based tracking, and decentralized certification, stakeholders and consumers alike gain confidence in the authenticity and sustainability of the products they handle and purchase.
 
 ## Problem Statement
